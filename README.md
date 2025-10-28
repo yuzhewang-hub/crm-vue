@@ -2,7 +2,7 @@
 https://github.com/tufeiping/api-for-cherrystudio/star/badge.svg
 
 
-![star](https://github.com/tufeiping/api-for-cherrystudio/star/badge.svg)
+![star](https://github.com/yuzhewang-hub/crm-vue/star/badge.svg)
 
 
 1111
