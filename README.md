@@ -1,8 +1,9 @@
 我是 readme
 https://github.com/tufeiping/api-for-cherrystudio/star/badge.svg
+https://img.shields.io/github/stars/vuejs/vue.svg?style=social
 
 
-![star](https://github.com/yuzhewang-hub/crm-vue/star/badge.svg)
+![star](https://img.shields.io/github/stars/yuzhewang-hub/crm-vue.svg?style=social)
 
 
 1111
