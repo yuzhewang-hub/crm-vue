@@ -6,6 +6,11 @@ https://img.shields.io/github/stars/vuejs/vue.svg?style=social
 ![star](https://img.shields.io/github/stars/yuzhewang-hub/crm-vue.svg?style=social)
 
 
+<a href="https://gitcode.com/zclzone/vue-naive-admin"><img alt="GitCode" src="https://gitcode.com/zclzone/vue-naive-admin/star/badge.svg
+"/></a>
+
+<a href="https://gitcode.com/zclzone/vue-naive-admin"><img alt="GitCode" src="https://gitcode.com/zclzone/vue-naive-admin/star/badge.svg"/></a>
+
 1111
   <img src="1空 格~！@#￥%……&_（）——+.jpg">
 
