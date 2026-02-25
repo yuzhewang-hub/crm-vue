@@ -5,7 +5,6 @@ https://img.shields.io/github/stars/vuejs/vue.svg?style=social
 
 ![star](https://img.shields.io/github/stars/yuzhewang-hub/crm-vue.svg?style=social)
 
-https://[240d:c000:f05f:8a00:6e8:bd9a:60cc:0]:63900/
 
 
 <a href="https://gitcode.com/zclzone/vue-naive-admin"><img alt="GitCode" src="https://gitcode.com/zclzone/vue-naive-admin/star/badge.svg
